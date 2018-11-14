@@ -17,4 +17,4 @@ window.onload = function(){
     http.open('Get','request.php?q=definition', true);
     http.send();
 		};
-};
+}
